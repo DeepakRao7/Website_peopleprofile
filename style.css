@@ -1,0 +1,44 @@
+/*index page css*/
+#navbar-container{
+    background-color: rgb(158, 123, 123);
+}
+#navbar-ul{
+    border-bottom: 2px solid;
+}
+#navbar-page-name{
+    text-align: center;
+    color: #0d6efd;
+}
+.card{
+    background-color: rgb(158, 123, 123);
+}
+
+
+
+
+
+
+
+/*profile  pages css*/
+
+
+
+
+
+/*contact us  page css*/
+.btn-dark{
+    margin-top: 7px;
+}
+#form-contact{
+    text-align: center;
+}
+
+
+
+
+/*About-us page css*/
+#about-card{
+    background-image: url(post-stamp.jpg);
+    text-align: center;
+}
+
